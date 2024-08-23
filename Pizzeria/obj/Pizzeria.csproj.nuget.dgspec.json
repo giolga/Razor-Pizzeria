@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mikey\\source\\repos\\Pizzeria\\Pizzeria\\Pizzeria.csproj": {}
+    "C:\\Users\\GioLGA\\Desktop\\MyProjects\\Razor-Pizzeria\\Pizzeria\\Pizzeria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mikey\\source\\repos\\Pizzeria\\Pizzeria\\Pizzeria.csproj": {
+    "C:\\Users\\GioLGA\\Desktop\\MyProjects\\Razor-Pizzeria\\Pizzeria\\Pizzeria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mikey\\source\\repos\\Pizzeria\\Pizzeria\\Pizzeria.csproj",
+        "projectUniqueName": "C:\\Users\\GioLGA\\Desktop\\MyProjects\\Razor-Pizzeria\\Pizzeria\\Pizzeria.csproj",
         "projectName": "Pizzeria",
-        "projectPath": "C:\\Users\\Mikey\\source\\repos\\Pizzeria\\Pizzeria\\Pizzeria.csproj",
-        "packagesPath": "C:\\Users\\Mikey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mikey\\source\\repos\\Pizzeria\\Pizzeria\\obj\\",
+        "projectPath": "C:\\Users\\GioLGA\\Desktop\\MyProjects\\Razor-Pizzeria\\Pizzeria\\Pizzeria.csproj",
+        "packagesPath": "C:\\Users\\GioLGA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GioLGA\\Desktop\\MyProjects\\Razor-Pizzeria\\Pizzeria\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Mikey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\GioLGA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
