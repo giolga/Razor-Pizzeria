@@ -3,16 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Mikey\\Desktop\\Razor-Pizzeria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B1AFF11-615E-4C8B-A72C-C4AF8A7BB04D}|Pizzeria\\Pizzeria.csproj|c:\\users\\mikey\\desktop\\razor-pizzeria\\pizzeria\\pages\\pizza.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6B1AFF11-615E-4C8B-A72C-C4AF8A7BB04D}|Pizzeria\\Pizzeria.csproj|solutionrelative:pizzeria\\pages\\pizza.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6B1AFF11-615E-4C8B-A72C-C4AF8A7BB04D}|Pizzeria\\Pizzeria.csproj|c:\\users\\mikey\\desktop\\razor-pizzeria\\pizzeria\\pages\\checkout\\checkout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1AFF11-615E-4C8B-A72C-C4AF8A7BB04D}|Pizzeria\\Pizzeria.csproj|solutionrelative:pizzeria\\pages\\checkout\\checkout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B1AFF11-615E-4C8B-A72C-C4AF8A7BB04D}|Pizzeria\\Pizzeria.csproj|c:\\users\\mikey\\desktop\\razor-pizzeria\\pizzeria\\pages\\pizza.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B1AFF11-615E-4C8B-A72C-C4AF8A7BB04D}|Pizzeria\\Pizzeria.csproj|solutionrelative:pizzeria\\pages\\pizza.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B1AFF11-615E-4C8B-A72C-C4AF8A7BB04D}|Pizzeria\\Pizzeria.csproj|c:\\users\\mikey\\desktop\\razor-pizzeria\\pizzeria\\pages\\checkout\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6B1AFF11-615E-4C8B-A72C-C4AF8A7BB04D}|Pizzeria\\Pizzeria.csproj|solutionrelative:pizzeria\\pages\\checkout\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/MikeyPC_EL_KUMI/PizzaAppDb/sa/SqlTable/dbo.PizzaOrders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +22,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Pizza.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Mikey\\Desktop\\Razor-Pizzeria\\Pizzeria\\Pages\\Pizza.cshtml.cs",
-              "RelativeDocumentMoniker": "Pizzeria\\Pages\\Pizza.cshtml.cs",
-              "ToolTip": "C:\\Users\\Mikey\\Desktop\\Razor-Pizzeria\\Pizzeria\\Pages\\Pizza.cshtml.cs",
-              "RelativeToolTip": "Pizzeria\\Pages\\Pizza.cshtml.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBYAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T06:36:39.607Z",
+              "Title": "dbo.PizzaOrders [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/MikeyPC_EL_KUMI/PizzaAppDb/sa/SqlTable/dbo.PizzaOrders.sql",
+              "ToolTip": "dbo.PizzaOrders [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-27T07:29:40.817Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Pizza.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mikey\\Desktop\\Razor-Pizzeria\\Pizzeria\\Pages\\Pizza.cshtml",
-              "RelativeDocumentMoniker": "Pizzeria\\Pages\\Pizza.cshtml",
-              "ToolTip": "C:\\Users\\Mikey\\Desktop\\Razor-Pizzeria\\Pizzeria\\Pages\\Pizza.cshtml",
-              "RelativeToolTip": "Pizzeria\\Pages\\Pizza.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAACvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T06:33:19.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ThankYou.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mikey\\Desktop\\Razor-Pizzeria\\Pizzeria\\Pages\\Checkout\\ThankYou.cshtml",
-              "RelativeDocumentMoniker": "Pizzeria\\Pages\\Checkout\\ThankYou.cshtml",
-              "ToolTip": "C:\\Users\\Mikey\\Desktop\\Razor-Pizzeria\\Pizzeria\\Pages\\Checkout\\ThankYou.cshtml",
-              "RelativeToolTip": "Pizzeria\\Pages\\Checkout\\ThankYou.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T06:31:52.068Z",
+              "Title": "Checkout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Mikey\\Desktop\\Razor-Pizzeria\\Pizzeria\\Pages\\Checkout\\Checkout.cshtml.cs",
+              "RelativeDocumentMoniker": "Pizzeria\\Pages\\Checkout\\Checkout.cshtml.cs",
+              "ToolTip": "C:\\Users\\Mikey\\Desktop\\Razor-Pizzeria\\Pizzeria\\Pages\\Checkout\\Checkout.cshtml.cs",
+              "RelativeToolTip": "Pizzeria\\Pages\\Checkout\\Checkout.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:25:49.441Z",
               "EditorCaption": ""
             }
           ]
